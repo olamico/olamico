@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olamico
 - 👀 I’m interested in frontend and backend (mongodb)
-- 🌱 I’m currently learning how to create blog and ecommerce store using React, Tailwind, reactapp
+- 🌱 I’m a front-end web developer with three years of experience how to create blog and ecommerce store using React, Tailwind, reactapp
 - 💞️ I’m looking to collaborate on blog and ecommerce Web development 
 - 📫 How to reach me @ Olamico.om@gmail.com 
 
